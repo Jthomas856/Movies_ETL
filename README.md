@@ -13,7 +13,9 @@ First we wrote and ETL function to read the three files and convert them to Pand
 
 After the code was refactored we were able to create a streamlined process to clean, merge and export the data into two databases.
 The first table created, movies, resulted in 6,052 rows.
+
 <img width="553" alt="movies_query" src="https://user-images.githubusercontent.com/89098766/139540919-ee14a6a7-9113-44f7-9ca3-5de74e5fe3d1.png">
 
 The second table created, ratings, resulted in 24,024,289 rows.
+
 <img width="413" alt="ratings_query" src="https://user-images.githubusercontent.com/89098766/139540946-5a784102-2374-419a-86d4-dfa722eff5db.png">
